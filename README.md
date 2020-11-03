@@ -2,5 +2,5 @@ Cognitive Services brings AI to every developer without having expertise in mach
 
 - Create a new resource in Microsoft Azure for Face API
 - Copy Subscription and endpoint URL's from Azure
-- Create a configuration file for subscription keys-One Time Only
-- Create Headers and params, then send a request for face recognition
+- Create a configuration file for subscription keys-One Time Only(FaceAPI_conifg.py)
+- Create Headers and params, then send a request for face recognition(AzureFaceAPI_Basic.py)
